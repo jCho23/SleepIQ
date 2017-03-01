@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{96CD71F8-F52A-4E46-8A5F-F220E2492207}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SleepIQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SleepIQ/AppInitializer.cs">
+    <Files>
+      <File FileName="SleepIQ/Tests.cs" Line="34" Column="3" />
+      <File FileName="SleepIQ/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

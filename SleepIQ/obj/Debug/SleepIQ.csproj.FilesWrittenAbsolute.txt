@@ -1,0 +1,7 @@
+/Users/junecho/Projects/SleepIQ/SleepIQ/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/SleepIQ/SleepIQ/bin/Debug/SleepIQ.dll.mdb
+/Users/junecho/Projects/SleepIQ/SleepIQ/bin/Debug/SleepIQ.dll
+/Users/junecho/Projects/SleepIQ/SleepIQ/obj/Debug/SleepIQ.dll
+/Users/junecho/Projects/SleepIQ/SleepIQ/obj/Debug/SleepIQ.dll.mdb
+/Users/junecho/Projects/SleepIQ/SleepIQ/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/SleepIQ/SleepIQ/bin/Debug/Xamarin.UITest.dll
