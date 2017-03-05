@@ -3,8 +3,25 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SleepIQ/AppInitializer.cs">
     <Files>
       <File FileName="SleepIQ/Tests.cs" Line="34" Column="3" />
-      <File FileName="SleepIQ/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="SleepIQ/AppInitializer.cs" Line="4" Column="22" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SleepIQ" expanded="True">
+            <Node name="SleepIQ" expanded="True">
+              <Node name="SleepIQ" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
