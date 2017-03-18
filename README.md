@@ -1,14 +1,14 @@
 # SleepIQ
 SleepIQ Automation Test Scripts
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
